@@ -10,4 +10,9 @@ public class Circle {
 		this.radius = radius;
 	}
 	
+	public void someTestFeature(){
+		
+	}
+	
+	
 }
